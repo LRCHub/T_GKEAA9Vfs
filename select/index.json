@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "会いに行くのに",
+  "base_artist": "aimyon",
+  "createdAt": "2026-02-11T07:33:49.088082Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "会いに行くのに",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_会いに行くのに_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "会いに行くのに",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_02_会いに行くのに_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "会いに行くのに",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_03_会いに行くのに_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "会いに行くのに",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_04_会いに行くのに_あいみょん.txt"
+    }
+  ]
+}
